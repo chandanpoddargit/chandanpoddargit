@@ -1,119 +1,121 @@
-<h1 align="center">👋 Hi, I'm Chandan Poddar </h1>
-<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
-<div align="center">
-  <!-- Profile Picture - Task 1.1 -->
-  <img src="./.github/Profile.jpg" width="200" alt="Professional Profile Picture" />
-  <br />
+<img src="https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif" alt="javascript" width="100%" height="350"/>
+      
+      
+   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Chandan Poddar <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
+      
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhatpoddar&label=Profile%20views&color=9130c2&style=flat" alt="prabhatpoddar" /> </p>
+      
+   <h3 align="center">Analytical and detail-oriented aspiring
+Full Stack Web Developer. Capable of
+writing production-ready code using
+Full Stack. Passionate about coding
+and intensely interested in working in a
+product-based company.
+</h3>
+      
+   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+      
+   <p align="center" color:"red">
+     <a href="https://github.com/DenverCoder1/readme-typing-svg">
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Chandan Poddar 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+      </p>
+      
+
+ 
+
+
   
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiv2240&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
-### 👨‍💻 About Me:
-- 🎓 Recently completed *Full Stack Web Development*
-- 🔍 Actively seeking job opportunities in *Full Stack Development*
-- 👯 Looking to collaborate on *Open Source Projects*
-- 💬 Ask me about *NodeJS, JavaScript*
-- 🌏 Location: *India*
-- 📫 How to reach me: *poddar197@gmail.com*
-
-### 🎯 Motivation & Interests:
-I'm a *FullStack Developer*, constantly exploring new technologies and building innovative solutions. Passionate about learning and improving my development skills, I aspire to contribute to meaningful projects and collaborate with other developers.  
-
-### 🛠️ Tech Stack:
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> &nbsp;
-
-  <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp;
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> &nbsp
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
-</p>
-
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv2240&show_icons=true&theme=radical&count_private=true" alt="github-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv2240&theme=radical&hide_border=true" alt="streak-stats"/>
-</p>
-
-### 🏆 Projects:
-I actively work on various Full Stack Web Development projects to showcase my core competencies. Here are some of my pinned projects:
-
-1. *Project Name - Dish-Calorie-Scanner*  
-   - *Project Type*: Fullstack  
-   - *Technologies*: React, Tailwind CSS, JavaScript, NodeJS, ExpressJS,  MongoDB  
-   - *Description*: In this Website, users can scan the QR code and can get the data of that food item and the total calorie of that Food Item. Users can also add the food items to it, and can also update and 
-      Delete the existing food items.
-   - *Deployed Link*: [Deployed App Link](https://four376-dish-calorie-scanner-frontend.onrender.com/)
-   - *Github Link*: [Code Walkthrough](https://github.com/nileshyadav6702/4376-Dish-calorie-scanner)  
-   - *Installation Instructions*: 
-     1. Clone the repository: `  git clone https://github.com/nileshyadav6702/4376-Dish-calorie-scanner.git `
-     2. Navigate to folder:   cd 4376-Dish-calorie-scanner Public
-     3. Run npm install to install dependencies.
-     4. Run the server:   npm run start  
-   
-2. *Project Name - Airbnb Clone*  
-   - *Project Type*: Full Stack  
-   - *Technologies*: HTML, CSS, JavaScript, Firebase Authentication  
-   - *Description*: This is a simple Airbnb clone that allows users to sign up and sign in using Firebase authentication. The application is built entirely using HTML and CSS for the frontend. It includes core 
-      functionality for browsing home listings, viewing detailed property pages, and proceeding with checkout.
-   - *Deployed Link*: [Deployed App Link](https://cozy-biscotti-7e4706.netlify.app/ )  
-   - *Github Link*: [Code Walkthrough](https://github.com/sudhirbhargav/B42_WEB_010_Pixel-Pushers)  
-   - *Installation Instructions*: 
-     1. Clone the repository: git clone https://github.com/your-repo.git
-     2. Navigate to folder: cd B42_WEB_010_Pixel-Pushers
-     3. Run npm install to install dependencies.
-     4. Run the server: npm start
-
-3. *Project Name - Anti_Resume_Platform*  
-   - *Project Type*: Fullstack 
-   - *Technologies*: React, HTML, CSS, JavaScript, NodeJS, Express, MongoDB, Mongoose, Postman 
-   - *Description*: A full-stack Anti-Resume Job Platform that connects candidates and companies through skill-based challenges, replacing traditional resumes with performance-driven hiring
-   - *Deployed Link*: [Deployed App Link](https://aquamarine-paletas-f63292.netlify.app/)  
-   - *Github Link*: [Code Walkthrough](https://github.com/dattatrayaSamal/Anti_Resume_Platform)
-   - *Installation Instructions*: 
-     1. Clone the repository: gh repo clone dattatrayaSamal/Anti_Resume_Platform
-     2. Navigate to folder: cd Anti_Resume_Platform
-     3. Run npm install to install dependencies.
-     4. Run the server: npm run dev or npm start
-
-> For more projects, visit my [GitHub Repository](https://github.com/chandanpoddargit).
-
-### 🤝 Connect with me:
-<p align="left">
-  <a href="www.linkedin.com/in/chandan-poddar-83ba76293/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://shiv-sahni-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="portfolio" height="30" width="80" />
-  </a>
-</p>
-
-### 📅 Milestones:  
-- *Projects*: Added at least three projects to showcase core competencies. Projects are tagged and pinned accordingly.  
-- *README Updates*: All projects have detailed README files with descriptions, installation instructions, and video walkthroughs.
+      
+   ## 🙋‍♂️ About Me
+      
+   - 🔭 I’m currently pursuing Full Stack Web Development
+      
+   - 🌱 I’m currently learning at Masai
+      
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1ARoQNnQb7bb7QVgvVe8ws8qQtv4dmywb/view?usp=sharing" target="_blank" >Resume</a>
+      
+      - 💻 Know more about me <a href="https://prabhatpoddar.github.io" target="_blank"  >Portfolio</a>
+      
+      - 💬 Ask me about *HTML, CSS, JavaScript, ExpressJS, MongoDB & DSA*
+      
+      - 📫 How to reach me *poddar197@gmail.com*
+      
+      
+      <hr />
+      
+      
+      <h2 align="center">📱 Connect with me</h2>
+      <br />
+     <div align="center" >
+      
+     <a href="https://www.linkedin.com/in/prabhat-poddar-b98bab22b/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
+      
+      <a href="https://prabhatpoddar.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
+      
+      <a href="https://x.com/Chandanpod88922" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
+      
+      <a title="chandan-poddar" href="mailto:poddar197@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
+     
+     </div>
+      
+      <hr />
+      
+      
+      <h2 align="center">🚀 Languages and Tools:</h2>
+      <br/>
+      <div align="center">
+       
+       <div align="center"><h3 align="center">Frontend</h3>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+      <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+      <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+      </div>
+       <br/>
+        <div align="center"><h3 align="center">Backend</h3> 
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+      <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
+      <br/>
+      <br/>
+        <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+       </div>
+        
+        <div align="center"><h3 align="center">Tools</h3> 
+         <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+         <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+      <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+      <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+         <br/>
+      <br/>
+         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+       </div>
+      </div>
+      
+      <br/>
+       <br/>
+      <br/>
+      <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
+      
+      <br />
+      <br />
+      <br/>
+      
+      
+      
+      <br/>
+     <img src="https://github-readme-stats.vercel.app/api?username=chandanpoddargit&show_icons=true&locale=en" alt="status" />
+       <img src="https://streak-stats.demolab.com/?user=chandanpoddargit" alt="git stats" />
+      
+      
+      <hr />
+      
   
-### 🔖 Merit Points:
-- *Repositories Starring*: I have starred repositories of interest.
-- *Followers*: Engaging with the GitHub community and looking to expand my network.
+       

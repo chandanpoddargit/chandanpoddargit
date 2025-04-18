@@ -33,9 +33,9 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1ARoQNnQb7bb7QVgvVe8ws8qQtv4dmywb/view?usp=sharing" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1frhqh7SlUY9P4KIZz6a9geACFthgfOTp/view?usp=sharing" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://prabhatpoddar.github.io" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="https://peppy-axolotl-d2ee94.netlify.app/" target="_blank"  >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, ExpressJS, MongoDB & DSA*
       
@@ -49,10 +49,10 @@ product-based company.
       <br />
      <div align="center" >
       
-     <a href="https://www.linkedin.com/in/prabhat-poddar-b98bab22b/" target="_blank">
+     <a href="https://www.linkedin.com/in/chandanpoddar-mern/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="https://prabhatpoddar.github.io/" target="_blank">
+      <a href="https://peppy-axolotl-d2ee94.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
       <a href="https://x.com/Chandanpod88922" target="_blank">

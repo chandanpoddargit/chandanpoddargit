@@ -35,7 +35,7 @@ product-based company.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1frhqh7SlUY9P4KIZz6a9geACFthgfOTp/view?usp=sharing" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://peppy-axolotl-d2ee94.netlify.app/" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="chandan-devfolio.netlify.app" target="_blank"  >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, ExpressJS, MongoDB & DSA*
       

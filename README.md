@@ -52,7 +52,7 @@ product-based company.
      <a href="https://www.linkedin.com/in/chandanpoddar-mern/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="https://peppy-axolotl-d2ee94.netlify.app/" target="_blank">
+      <a href="https://chandan-devfolio.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
       <a href="https://x.com/Chandanpod88922" target="_blank">

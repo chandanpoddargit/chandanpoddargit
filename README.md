@@ -33,7 +33,7 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1frhqh7SlUY9P4KIZz6a9geACFthgfOTp/view?usp=sharing" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1fwgW9EQCb-0noc3wAeTbfTSpIJaMk7rz/view?usp=sharing" target="_blank" >Resume</a>
       
       - 💻 Know more about me <a href="https://chandan-devfolio.netlify.app" target="_blank"  >Portfolio</a>
       
